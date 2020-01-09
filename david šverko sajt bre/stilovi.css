@@ -1,5 +1,10 @@
-body { background-image: url("2134.jpg");
+body { background-image: url("./slike/2134.jpg");
 }
 
 p { text-align:center;
 }
+
+h1 { font-style: bold; color: white; font-size: 300%; text-align: center;
+} 
+
+
